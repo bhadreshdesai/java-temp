@@ -1,0 +1,2 @@
+# use red.java requires java 17 so use gitpod/workspace-java-17 image
+image: gitpod/workspace-java-17
